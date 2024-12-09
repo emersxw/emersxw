@@ -1,4 +1,5 @@
-## Hi there 👋
+## hi, i’m emerson 👻
 
-- 🌱 I’m currently learning more about hardware and software arquitecture
-- 🕸️ my website: https://emersxw.me
+- 🦾 i’ve been exploring how AI can help software engineers
+- 👽 learning more about hardware and software arquitecture
+- 🕸️ https://emersxw.me
